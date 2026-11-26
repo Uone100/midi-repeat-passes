@@ -2,6 +2,14 @@
 
 Make a rehearsal MIDI in which the backing part plays only on the selected trips through an expanded repeat.
 
+[Download v0.1.0 ZIP](https://github.com/Uone100/midi-repeat-passes/releases/download/v0.1.0/midi-repeat-passes-0.1.0.zip)
+
+Install in a Codex project with Node.js 22.20 or newer:
+
+```sh
+npx skills add Uone100/midi-repeat-passes -a codex
+```
+
 ## English quickstart
 
 **[Follow the step-by-step tutorial](TUTORIAL.md)**
